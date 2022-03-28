@@ -1,0 +1,17 @@
+exportar uma pasta ou arquivo para o github
+ 
+criar um novo repositorio no git hub 
+
+abrir a pasta com gitbash here
+
+git init
+
+git add .
+
+git commit -m "initial commit" 
+
+git remote add origin https:
+ 
+git remote -v 
+
+git push -f origin master 
